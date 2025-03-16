@@ -1,0 +1,15 @@
+{
+  "name": "phishing-tunnel",
+  "version": "1.0.0",
+  "description": "Túnel educativo para phishing ético",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
